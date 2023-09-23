@@ -6,7 +6,7 @@ We have successfully deployed our project using Docker Containerization on Opens
 
 TEAM- Thunder Breathing
 
-TEAM MEMBERS - Jayanthan, Magesh, Manoj, SanjayKumar
+TEAM MEMBERS - Jayanthan, Magesh, Manoj, SanjayKumar H
 
 [https://drive.google.com/drive/folders/1VSulveIKTxnPqQE_WQtdfMRzCLtiTGFZ?usp=sharing](https://drive.google.com/drive/folders/1ZkXGRxBtpKK7X_H6rLjWT5BeBglr3iv9?usp=sharing)
 
